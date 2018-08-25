@@ -1,0 +1,72 @@
+[{
+	"q": "What is the height of Sagarmatha?",
+	"a": "8000 ft",
+	"b": "8048 ft",
+	"c": "8848 ft",
+	"d": "8808 ft",
+	"ca": "c"
+}, {
+	"q":"What is the total height of Burj Khalifa Tower in Dubai?",
+	"a": "2722 ft",
+	"b": "3000 ft",
+	"c": "2800 ft",
+	"d":"2808 ft",
+	"ca": "a"
+}, {
+	"q": "What is the age of Earth as calculated?",
+	"a": "4.2B years",
+	"b": "3 B years",
+	"c": "4.5B years",
+	"d": "4.543B years",
+	"ca": "d"
+}, {
+	"q": "How many places of Nepal have been declared wetlands (simsar) now?",
+	"a": "4",
+	"b": "9",
+	"c": "6",
+	"d": "2",
+	"ca": "b"
+}, {
+	"q": "Where is the Biodiversity Information established?",
+	"a": "Chitwan",
+	"b": "Kathmandu",
+	"c": "Palpa",
+	"d": "Pokhara",
+	"ca": "a"
+}, {
+	"q": "Which is the South Asian nation that has prohibited the sale of cigarette in its territory?",
+	"a": "India",
+	"b": "Bhutan",
+	"c": "Bangladesh",
+	"d": "Afganistan",
+	"ca": "b"
+}, {
+	"q": "Which is the largest bilateral donor to Nepal?",
+	"a": "China",
+	"b": "America",
+	"c": "Japan",
+	"d": "Korea",
+	"ca": "c"
+}, {
+	"q": "What was the theme of the 2018 World Earth Day?",
+	"a": "End Plastic Pollution",
+	"b": "Save Mother Earth from Plastic",
+	"c": "No to Plastic",
+	"d": "Plastic Pollution: A Menace",
+	"ca": "a"
+}, {
+	"q": "Which country recently honoured the first conquest of Mount Everest without bottled oxygen?",
+	"a": "India",
+	"b": "Nepal",
+	"c": "UK",
+	"d": "China",
+	"ca": "b"
+}, {
+	"q": "When is the World Earth Day observed every year?",
+	"a": "20-Apr",
+	"b": "21-Apr",
+	"c": "22-Apr",
+	"d": "23-Apr",
+	"ca": "c"
+}]
+
