@@ -1,0 +1,2 @@
+Name = Manisha	 Score = 60
+Name = Bishal	 Score = 50
